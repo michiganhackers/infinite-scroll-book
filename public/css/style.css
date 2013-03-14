@@ -1,0 +1,30 @@
+* {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  margin: 0px auto;
+  width: 960px;
+  min-height: 100px;
+}
+
+.lines {
+  margin-top: 10px;
+}
+
+.line {
+  min-height: 40px;
+  padding: 10px 0px;
+}
+
+.line:nth-child(2n+1) {
+  background: #EEEEEE;
+}
+
+.line p {
+  padding: 8px;
+  line-height: 40px;
+  font-size: 24px;
+}

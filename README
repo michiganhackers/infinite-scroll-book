@@ -1,0 +1,6 @@
+ToDo for running this application:
+
++ Install Node.js
++ Install NPM (Node Package Manager)
++ Set the hostname (in ./public/js/client.js) to the URL or IP address that users will connect to
++ (Optional) Change the port to something other than 8421.
